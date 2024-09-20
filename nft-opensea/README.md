@@ -23,7 +23,7 @@ Primeiro, conectamos nossa carteira MetaMask à rede de testes Sepolia. Isso pod
 - **Explorador de blocos**: `https://sepolia.etherscan.io`
 
 ### 2. Obtenção de ETH de Teste
-Para realizar as transações necessárias na blockchain Sepolia, é necessário obter ETH de teste. Isso pode ser feito através de faucets como [Sepolia Faucet](https://faucet.sepolia.dev/).
+Para realizar as transações necessárias na blockchain Sepolia, é necessário obter ETH de teste. Isso pode ser feito através de faucets como [Sepolia Faucet](https://faucets.chain.link/sepolia).
 
 ### 3. Criação do NFT
 Usando o OpenSea Testnet, seguimos o processo de criação do NFT. A imagem utilizada para o NFT foi "Oni", a qual pode ser visualizada no seguinte caminho:
